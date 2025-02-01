@@ -1,1 +1,1 @@
-hexlet-my-first-workflow
+https://github.com/ildarjans/hexlet-my-first-workflow/actions/workflows/greeting.yml/badge.svg
