@@ -1,1 +1,1 @@
-https://github.com/ildarjans/hexlet-my-first-workflow/actions/workflows/greeting.yml/badge.svg
+![greeting](https://github.com/ildarjans/hexlet-my-first-workflow/actions/workflows/greeting.yml/badge.svg)
